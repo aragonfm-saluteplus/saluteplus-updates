@@ -1,0 +1,9 @@
+{
+  "channel": "stable",
+  "versionCode": 115,
+  "versionName": "4.8.0",
+  "mandatory": false,
+  "apkUrl": "",
+  "sha256": "",
+  "notes": "Prima versione predisposta per gli aggiornamenti automatici di SalutePlus."
+}
